@@ -3,7 +3,7 @@ import CalculateScore from "./Components/CalculateScore";
 function App() {
   return (
     <CalculateScore
-      name="Madki Sai Charan"
+      name="Narra Akshith Sai"
       school="Institute of Aeronautical Engineering"
       total={480}
       goal={6}
