@@ -1,0 +1,19 @@
+.container{
+
+    display:flex;
+
+    justify-content:space-around;
+
+    margin-top:40px;
+
+}
+
+.section{
+
+    width:30%;
+
+    border-left:4px solid green;
+
+    padding-left:20px;
+
+}

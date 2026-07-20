@@ -1,0 +1,17 @@
+.container{
+    margin-left:50px;
+}
+
+img{
+    width:300px;
+    height:250px;
+    margin-bottom:20px;
+}
+
+.textRed{
+    color:red;
+}
+
+.textGreen{
+    color:green;
+}
